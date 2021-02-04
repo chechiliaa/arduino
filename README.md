@@ -8,3 +8,5 @@
 * [Proyecto SOS morse](https://github.com/chechiliaa/arduino/blob/main/Blink_SOS_morse.ino)
 
 * [Proyecto parpadeo](https://github.com/chechiliaa/arduino/blob/main/parpadeo.ino)
+
+* [Proyecto Altavoz irritante](https://github.com/chechiliaa/arduino/blob/main/altavoz.ino)
