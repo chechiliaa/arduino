@@ -10,3 +10,5 @@
 * [Proyecto parpadeo](https://github.com/chechiliaa/arduino/blob/main/parpadeo.ino)
 
 * [Proyecto Altavoz irritante](https://github.com/chechiliaa/arduino/blob/main/altavoz.ino)
+
+* [Melodia de prueba](https://github.com/chechiliaa/arduino/blob/main/altavoz_melodia_prueba.ino)
