@@ -16,3 +16,6 @@
 * [Snippet del botón malote](https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp)
 
 * [Cotillear a los compas](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
+
+
+![texto](https://github.com/chechiliaa/arduino/blob/main/PicsArt_02-08-12.30.39.jpg)
