@@ -4,3 +4,27 @@ bool isTheButtonBeingPressed = false;
 bool play = false;
 
 int buttonPin = 2;
+// Incluir dentro del setup.
+pinMode(buttonPin, INPUT);
+//Sustituir loop.
+
+void loop() {
+  checkButton();
+  if (play) {
+  // incluir aquí el código a ejecutar   
+  }
+}
+
+//función checkbutton 
+void checkButton(){
+  switchState = digitalRead(buttonPin);
+  if (switchState == HIGH){
+  if (isTheButtonBeingPressed == false){
+    play = !play;
+    isTheButtonBeingPressed = true;
+  }
+}
+else{
+  isTheButtonBeingPressed = false;
+}
+}
