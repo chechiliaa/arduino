@@ -19,3 +19,6 @@
 
 
 ![texto](https://github.com/chechiliaa/arduino/blob/main/PicsArt_02-08-12.30.39.jpg)
+
+[Potenciometro  b r i l l i   b r i l l i](https://github.com/chechiliaa/arduino/blob/main/potenciometro%20brillibrilli)
+
