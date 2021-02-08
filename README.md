@@ -12,3 +12,5 @@
 * [Proyecto Altavoz irritante](https://github.com/chechiliaa/arduino/blob/main/altavoz.ino)
 
 * [Melodia de prueba](https://github.com/chechiliaa/arduino/blob/main/altavoz_melodia_prueba.ino)
+
+* [Snippet del botón malote] (https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp)
