@@ -14,3 +14,5 @@
 * [Melodia de prueba](https://github.com/chechiliaa/arduino/blob/main/altavoz_melodia_prueba.ino)
 
 * [Snippet del botón malote](https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp)
+
+* [Cotillear a los compas](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
