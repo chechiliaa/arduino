@@ -22,5 +22,5 @@
 
 * [Potenciometro brilli brilli](https://github.com/chechiliaa/arduino/blob/main/potenciometro%20brillibrilli)
 
-Este texto no tiene formato. *Este texto está en negrita.* Y, _este está en cursiva._
+Este texto no tiene formato. **Este texto está en negrita.** Y, _este está en cursiva._
 
