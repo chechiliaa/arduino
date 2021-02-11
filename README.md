@@ -36,6 +36,8 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 ![Foto potenciometro verde](https://github.com/chechiliaa/arduino/blob/main/PicsArt_02-11-12.14.34.jpg)
 
++ [Potenciometro RGB jUsjUs](https://github.com/chechiliaa/arduino/blob/main/Potenciometro%20RGB.ino)
+
 ### [Otros enlaces y documentación... :two_hearts:]
 * [Cotillear a los compas](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
