@@ -2,16 +2,19 @@
 
 ## Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en clase. Todo esto son pequeños trabajos que he ido haciendo a partir de inicios de enero sobre programación, con el programa y la caja básica de materiales de <b>arduino</b>. A continuación, tenéis algunas de las programaciones de hemos hecho y cosas que he ido y voy aprendiendo.:sparkles::sparkles:
 
-## Índice de proyectos arduino: comerme el pito aaaa. :cat:
-## Proyectos realizados... 
 [Códigos Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-
-* [Proyecto de luz RGB con killSwitch](https://github.com/chechiliaa/arduino/blob/main/triple_luz_naira.ino)
+## Índice de proyectos arduino: comerme el pito aaaa. :cat:
+## Proyectos realizados. :star:
+### Proyectos solo led y botones... :yellow_heart:
 
 * [Proyecto SOS morse](https://github.com/chechiliaa/arduino/blob/main/Blink_SOS_morse.ino)
 
 * [Proyecto parpadeo](https://github.com/chechiliaa/arduino/blob/main/parpadeo.ino)
+
+## Proyectos con LED RGB... :purple_heart:
+
+* [Proyecto de luz RGB con killSwitch](https://github.com/chechiliaa/arduino/blob/main/triple_luz_naira.ino)
 
 * [Proyecto Altavoz irritante](https://github.com/chechiliaa/arduino/blob/main/altavoz.ino)
 
