@@ -28,5 +28,5 @@ Este texto no tiene formato. **Este texto está en negrita.** Y, _este está en 
 
 <i>Y este en cursivAaAaAa jusjus.</i>
 
-<u>La barbacoa, la barbacoa, como me gusta, la barbequiU.</u>
+<del>La barbacoa, la barbacoa, como me gusta, la barbequiU.</del>
 
