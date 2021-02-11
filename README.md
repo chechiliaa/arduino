@@ -38,6 +38,8 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 + [Potenciometro RGB jUsjUs](https://github.com/chechiliaa/arduino/blob/main/Potenciometro%20RGB.ino)
 
+![eppaa](https://github.com/chechiliaa/arduino/blob/main/PicsArt_02-11-01.07.08.jpg)
+
 ### [Otros enlaces y documentación... :two_hearts:]
 * [Cotillear a los compas](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
