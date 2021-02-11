@@ -24,3 +24,5 @@
 
 Este texto no tiene formato. **Este texto está en negrita.** Y, _este está en cursiva._
 
+<b>Este texto también está en negrita, putita.</b>
+
