@@ -26,13 +26,16 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 * [Snippet del botón malote](https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp)
 
+### Proyectos potenciometro... :blue_heart:
+
 * [Potenciometro brilli brilli](https://github.com/chechiliaa/arduino/blob/main/potenciometro%20brillibrilli)
 
-* [Potenciometro verdesito]()
+![texto](https://github.com/chechiliaa/arduino/blob/main/PicsArt_02-08-12.30.39.jpg)
+
+* [Potenciometro verdesito](https://github.com/chechiliaa/arduino/blob/main/Potenciometro%20verde.ino)
 
 ![Foto potenciometro verde](https://github.com/chechiliaa/arduino/blob/main/PicsArt_02-11-12.14.34.jpg)
 
-![texto](https://github.com/chechiliaa/arduino/blob/main/PicsArt_02-08-12.30.39.jpg)
 ### [Otros enlaces y documentación... :two_hearts:]
 * [Cotillear a los compas](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
