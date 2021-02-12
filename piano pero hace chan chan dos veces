@@ -1,0 +1,47 @@
+//int buttons[6];
+//programa una matriz con 6 números íntrgros 
+
+//int buttons[0] = 2;
+//dale al primer elemento de la matriz el valor 2
+
+int notes[] = {392,440,494,523,587,659,698,784};
+
+
+
+void setup() {
+  Serial.begin(9600);
+
+}
+
+void loop() {
+  int keyVal = analogRead(A0);
+  Serial.println(keyVal);
+
+  if (keyVal == 1023){
+    tone(8, notes[0],500);
+    delay(500);
+    tone(8, notes[1],500);
+    delay(500);
+  }
+else if(keyVal >= 990 && keyVal <= 1010){
+  tone(8, notes[2],500);
+  delay(500);
+  tone(8, notes[3],500);
+  delay(500);
+}
+else if (keyVal >= 505 && keyVal <= 515){
+tone(8, notes[4],500);
+delay(500);
+tone(8, notes[5],500);
+delay(500);
+}
+else if(keyVal >= 5 && keyVal <= 10){
+  tone(8, notes[6],500);
+delay(500);
+tone(8, notes[7],500);
+delay(500);
+}
+else{
+  noTone(8);
+}
+}
