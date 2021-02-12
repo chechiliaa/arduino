@@ -26,6 +26,8 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 * [Snippet del botón malote](https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp)
 
+* [Piano parapapam](https://github.com/chechiliaa/arduino/blob/main/pianOo)
+
 ### Proyectos potenciometro... :blue_heart:
 
 * [Potenciometro brilli brilli](https://github.com/chechiliaa/arduino/blob/main/potenciometro%20brillibrilli)
