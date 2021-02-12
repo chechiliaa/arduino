@@ -28,6 +28,8 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 * [Piano parapapam](https://github.com/chechiliaa/arduino/blob/main/pianOo)
 
+* [Piano que pulsas y en vez de hacer "pam" hace "pam PAM" :))](https://github.com/chechiliaa/arduino/blob/main/piano%20pero%20hace%20chan%20chan%20dos%20veces)
+
 ### Proyectos potenciometro... :blue_heart:
 
 * [Potenciometro brilli brilli](https://github.com/chechiliaa/arduino/blob/main/potenciometro%20brillibrilli)
