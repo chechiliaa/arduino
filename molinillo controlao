@@ -1,0 +1,25 @@
+const int motorPin = 9;
+int potenciometerValue = 0;
+int motorValue = 0;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(motorPin, OUTPUT);
+  //pinMode(switchPin, INPUT);
+}
+
+void loop() {
+  potenciometerValue = analogRead(A0);
+  motorValue = potenciometerValue /4;
+  Serial.println(potenciometerValue);
+  analogWrite(motorPin, motorValue);
+ // switchState = digitalRead(switchPin);
+
+ // if (switchState == HIGH) {
+ //   digitalWrite(motorPin, HIGH);
+ // }
+ // else {
+  //  digitalWrite(motorPin, LOW);
+  }
+
+//}
