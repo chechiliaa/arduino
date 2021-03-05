@@ -22,6 +22,8 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 * [Proyecto parpadeo](https://github.com/chechiliaa/arduino/blob/main/parpadeo.ino)
 
+* [Relog de arenAa](https://github.com/chechiliaa/arduino/blob/main/reloj%20de%20arena)
+
 ### Led RGB yujuu... :purple_heart:
 
 * [Proyecto de luz RGB con killSwitch](https://github.com/chechiliaa/arduino/blob/main/triple_luz_naira.ino)
@@ -53,6 +55,26 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 * [Potenciometro RGB con retoques jusjus](https://github.com/chechiliaa/arduino/blob/main/Potenciometro%20RGB%20Modificado)
 
 ![ujsss](https://github.com/chechiliaa/arduino/blob/main/PicsArt_02-11-01.36.11.jpg)
+
+## MotorcitoOo...:eyes:
+
+* [Un motorcitouu](https://github.com/chechiliaa/arduino/blob/main/el%20motorcito)
+
+* [Motorcitou pero editao](https://github.com/chechiliaa/arduino/blob/main/MOTORCILLO%20EDITED)
+
+* [Un molinillooouuu](https://github.com/chechiliaa/arduino/blob/main/molinillo)
+
+* [Molinillo controlAou](https://github.com/chechiliaa/arduino/blob/main/molinillo%20controlao)
+
+* [Molinillo chumba chumba](https://github.com/chechiliaa/arduino/blob/main/molinillo%20melodicoOo)
+
+## Joystick... :camel:
+
+* [Joystick sin más](https://github.com/chechiliaa/arduino/blob/main/joistic)
+
+* [Joystick con led](https://github.com/chechiliaa/arduino/blob/main/joystik%20variaci%C3%B3n%20led)
+
+* [El puto radar manin](https://github.com/chechiliaa/arduino/blob/main/radar)
 
 ### Appa que hay por aquí... :two_hearts:
 * [Cotillear a los compas](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
