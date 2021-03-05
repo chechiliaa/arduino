@@ -5,9 +5,15 @@
 Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en clase. Todo esto son pequeños trabajos que he ido haciendo a partir de inicios de enero sobre programación, con el programa y la caja básica de materiales de _Arduino_. A continuación, tenéis algunas de las programaciones que hemos hecho y cosas que he ido y voy aprendiendo.:sparkles::sparkles:
 ## Índice de proyectos arduino: comerme el toto aaaa. :cat:
 
-* [Leds and botoncitos :yellow_heart:](https://github.com/chechiliaa/arduino#proyectos-solo-led-y-botones-yellow_heart)
+* [Leds and botoncitos :yellow_heart:](https://github.com/chechiliaa/arduino/blob/main/README.md#leds-and-botoncitoooss-yellow_heart)
 
-* [Otros enlaces y documentación... :two_hearts:](https://github.com/chechiliaa/arduino#otros-enlaces-y-documentaci%C3%B3n-two_hearts)
+* [Led RGB... :purple_heart:](https://github.com/chechiliaa/arduino/blob/main/README.md#led-rgb-yujuu-purple_heart)
+
+* [Altavoz chumba chumba... :musical_note::](https://github.com/chechiliaa/arduino/blob/main/README.md#chumba-chumbaa-musical_note)
+
+* [Potenciometro iugh... :blue_heart:](https://github.com/chechiliaa/arduino/blob/main/README.md#ojo-el-potenciometro-eh-blue_heart)
+
+* [Otros enlaces y documentación... :two_hearts:](https://github.com/chechiliaa/arduino/blob/main/README.md#appa-que-hay-por-aqu%C3%AD-two_hearts)
 
 ## Proyectos realizados. :star:
 ### Leds and botoncitoOoss... :yellow_heart: 
