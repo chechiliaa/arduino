@@ -10,16 +10,16 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 * [Otros enlaces y documentación... :two_hearts:](https://github.com/chechiliaa/arduino#otros-enlaces-y-documentaci%C3%B3n-two_hearts)
 
 ## Proyectos realizados. :star:
-### [Leds and botoncitoOoss... :yellow_heart:]
+###[Leds and botoncitoOoss... :yellow_heart:]
 
 * [Proyecto SOS morse](https://github.com/chechiliaa/arduino/blob/main/Blink_SOS_morse.ino)
 
 * [Proyecto parpadeo](https://github.com/chechiliaa/arduino/blob/main/parpadeo.ino)
 
-### [Led RGB yujuu... :purple_heart:]
+###[Led RGB yujuu... :purple_heart:]
 
 * [Proyecto de luz RGB con killSwitch](https://github.com/chechiliaa/arduino/blob/main/triple_luz_naira.ino)
-### [Chumba chumbAa... :musical_note:]
+###[Chumba chumbAa... :musical_note:]
 * [Proyecto Altavoz irritante](https://github.com/chechiliaa/arduino/blob/main/altavoz.ino)
 
 * [Melodia de prueba](https://github.com/chechiliaa/arduino/blob/main/altavoz_melodia_prueba.ino)
