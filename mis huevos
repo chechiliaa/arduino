@@ -1,0 +1,55 @@
+#include<LiquidCrystal.h>
+LiquidCrystal lcd(12,11,5,4,3,2);
+
+const int switchPin = 6;
+int switchState = 0;
+int prevSwicthState = 0;
+int reply;
+
+void setup() {
+ lcd.begin(16,2);
+ pinMode(switchPin, INPUT);
+ lcd.print("Que dicen");
+ lcd.setCursor(0,1);
+ lcd.print("mis huevos");
+}
+
+void loop() {
+  switchState = digitalRead(switchPin);
+  if (switchState !=prevSwicthState) {
+    if (switchState == LOW) {
+      reply = random (8);
+      lcd.clear();
+      lcd.setCursor(0, 0);
+      lcd.print("Mis huevos dicen:");
+      lcd.setCursor(0, 1);
+      switch(reply){
+        case 0:
+        lcd.print("Poh si");
+        break;
+        case 1:
+        lcd.print("Puede ser illo");
+        break;
+        case 2:
+        lcd.print("Poh claro loko");
+        break;
+        case 3:
+        lcd.print("Que rico papi");
+        break;
+        case 4:
+        lcd.print("Uy no se paco");
+        break;
+        case 5:
+        lcd.print("Vocaliza imbecil");
+        break;
+        case 6:
+        lcd.print("Creo que no eh");
+        break;
+        case 7:
+        lcd.print("Poh no");
+        break;
+      }
+    }
+  }
+prevSwicthState = switchState;
+}
