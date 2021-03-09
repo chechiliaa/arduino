@@ -77,6 +77,8 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 * [El puto radar manin](https://github.com/chechiliaa/arduino/blob/main/radar)
 
 ### Appa que hay por aquí... :two_hearts:
+* [Kill switch baby](https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp)
+* 
 * [Cotillear a los compas](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
 * [Códigos Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
