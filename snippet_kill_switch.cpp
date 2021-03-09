@@ -18,13 +18,14 @@ void loop() {
 //función checkbutton 
 void checkButton(){
   switchState = digitalRead(buttonPin);
-  if (switchState == HIGH){
-  if (isTheButtonBeingPressed == false){
+  if (switchState == HIGH && !isTheButtonBeingPressed){
     play = !play;
     isTheButtonBeingPressed = true;
   }
-}
-else{
+  
+  if (switchState == LOW)
+  {
   isTheButtonBeingPressed = false;
-}
+  }
+
 }
