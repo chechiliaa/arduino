@@ -22,7 +22,7 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 * [Proyecto parpadeo](https://github.com/chechiliaa/arduino/blob/main/parpadeo.ino)
 
-* [Relog de arenAa](https://github.com/chechiliaa/arduino/blob/main/reloj%20de%20arena)
+* [Reloj de arenAa](https://github.com/chechiliaa/arduino/blob/main/reloj%20de%20arena)
 
 ### Led RGB yujuu... :purple_heart:
 
