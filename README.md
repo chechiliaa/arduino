@@ -11,9 +11,13 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 * [Altavoz chumba chumba... :musical_note::](https://github.com/chechiliaa/arduino/blob/main/README.md#chumba-chumbaa-musical_note)
 
-* [Potenciometro iugh... :blue_heart:](https://github.com/chechiliaa/arduino/blob/main/README.md#ojo-el-potenciometro-eh-blue_heart)
+* [Potenciometro iugh... :blue_heart:](https://github.com/chechiliaa/arduino#ojo-el-potenciometro-eh-blue_heart)
 
-* [Otros enlaces y documentación... :two_hearts:](https://github.com/chechiliaa/arduino/blob/main/README.md#appa-que-hay-por-aqu%C3%AD-two_hearts)
+* [Un motor brum brum...  :pouting_cat:](https://github.com/chechiliaa/arduino#motorcitoooeyes)
+
+* [Vamoh a juga...  :video_game:](https://github.com/chechiliaa/arduino#joystick-camel)
+
+* [Otros enlaces y documentación... :two_hearts:](https://github.com/chechiliaa/arduino#appa-que-hay-por-aqu%C3%AD-two_hearts)
 
 ## Proyectos realizados. :star:
 ### Leds and botoncitoOoss... :yellow_heart: 
