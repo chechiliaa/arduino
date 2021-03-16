@@ -85,6 +85,8 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 * [Calcular media de mi pichula rica](https://github.com/chechiliaa/arduino/blob/main/media%20de%20las%20notas)
 
+* [Repositorio del teacher.](https://github.com/d-prieto/arduinoCourse#curso-de-arduino)
+
 * [Cotillear a los compas](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
 * [Códigos Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
