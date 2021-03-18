@@ -8,17 +8,17 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 * [Leds and botoncitos :yellow_heart:](https://github.com/chechiliaa/arduino#leds-and-botoncitooossalien)
 
-* [Led RGB... :purple_heart:](https://github.com/chechiliaa/arduino/blob/main/README.md#led-rgb-yujuu-purple_heart)
+* [Led RGB... :purple_heart:](https://github.com/chechiliaa/arduino#led-rgb-porque-yo-perreo-solapurple_heart)
 
-* [Altavoz chumba chumba... :musical_note::](https://github.com/chechiliaa/arduino/blob/main/README.md#chumba-chumbaa-musical_note)
+* [Altavoz chumba chumba... :musical_note::](https://github.com/chechiliaa/arduino#chumba-chumbaa-musical_note)
 
-* [Potenciometro iugh... :blue_heart:](https://github.com/chechiliaa/arduino#ojo-el-potenciometro-eh-blue_heart)
+* [Potenciometro iugh... :blue_heart:](https://github.com/chechiliaa/arduino#mierda-el-potenciometrosob)
 
-* [Un motor brum brum...  :pouting_cat:](https://github.com/chechiliaa/arduino#motorcitoooeyes)
+* [Un motor brum brum...  :pouting_cat:](https://github.com/chechiliaa/arduino#motorcitoooloop)
 
-* [Vamoh a juga...  :video_game:](https://github.com/chechiliaa/arduino#joystick-camel)
+* [Vamoh a juga...  :video_game:](https://github.com/chechiliaa/arduino#joystickcamel)
 
-* [Otros enlaces y documentación... :two_hearts:](https://github.com/chechiliaa/arduino#appa-que-hay-por-aqu%C3%AD-two_hearts)
+* [Otros enlaces y documentación... :two_hearts:](https://github.com/chechiliaa/arduino#ojito-con-el-resto)
 
 ## Proyectos realizados. :star:
 
