@@ -6,7 +6,7 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 ## Índice de proyectos arduino :hatching_chick:
 
-* [Leds and botoncitos :yellow_heart:](https://github.com/chechiliaa/arduino/blob/main/README.md#leds-and-botoncitoooss-yellow_heart)
+* [Leds and botoncitos :yellow_heart:](https://github.com/chechiliaa/arduino#leds-and-botoncitooossalien)
 
 * [Led RGB... :purple_heart:](https://github.com/chechiliaa/arduino/blob/main/README.md#led-rgb-yujuu-purple_heart)
 
