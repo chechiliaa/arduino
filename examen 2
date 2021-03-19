@@ -1,0 +1,44 @@
+/*
+*  Documentación del programa:Problema 3
+*  Autora toda poderosa: Naira Millán Trujillo
+*  Fecha:19/03/21
+*  Descripción del programa: El problema que nos plantean es: 1 led que se encienda durante un segundo una única vez,
+*  al apagarse, podra encenderse si pulsas 1 de los dos botónes que hay.
+*  Hardware necesario: 1 leds, 2 botones, 5 cables
+*/
+int switchState = 0;
+int switchState2 = 0;
+int yellowPin = 7;
+int buttonPin1 = 4;
+int buttonPin2 = 8;
+
+
+void setup() {
+  pinMode(yellowPin, OUTPUT);
+  pinMode(buttonPin1, INPUT);
+  pinMode(buttonPin2, INPUT);
+
+  digitalWrite(yellowPin, HIGH); 
+   delay(1000);
+  digitalWrite(yellowPin, LOW); 
+  delay(1000);
+  
+}
+
+void loop() {
+  switchState = digitalRead(buttonPin1);
+  switchState2 = digitalRead(buttonPin2);
+  if (switchState == LOW){
+    digitalWrite(yellowPin, LOW);
+    }
+     else if (switchState = HIGH){
+    digitalWrite(yellowPin, HIGH);
+  }
+  if (switchState2 == LOW){
+    digitalWrite(yellowPin, LOW);
+    }
+     else if (switchState2 = HIGH){
+    digitalWrite(yellowPin, HIGH);
+  }
+  
+}
