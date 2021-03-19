@@ -96,6 +96,8 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 * [Problema 3](https://github.com/chechiliaa/arduino/blob/main/examen%202)
 
+* [Problema 4](https://github.com/chechiliaa/arduino/blob/main/examen%203)
+
 ### Ojito con el resto...👀
 
 * [Kill switch baby](https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp)
