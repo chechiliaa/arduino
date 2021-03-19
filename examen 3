@@ -1,0 +1,40 @@
+/*
+*  Documentación del programa:Problema 3
+*  Autora toda poderosa: Naira Millán Trujillo
+*  Fecha:19/03/21
+*  Descripción del programa: El problema que nos plantean es: 1 led que haga distintos modos.
+*  Hardware necesario: 1 leds, 1 botón, 4 cables
+*/
+
+int switchState = 0;
+int yellowPin = 7;
+int buttonPin = 4;
+
+void setup() {
+ pinMode(yellowPin, OUTPUT);
+ pinMode(buttonPin, INPUT);
+ 
+}
+
+void loop() {
+   switchState = digitalRead(buttonPin);
+   if (switchState == HIGH){
+   digitalWrite(yellowPin, HIGH);
+   }
+   else if (switchState == HIGH){
+    digitalWrite(yellowPin, HIGH);
+    delay (1000);
+    digitalWrite(yellowPin, LOW);
+    delay (1000);
+   }
+   else if (switchState == HIGH){
+    digitalWrite(yellowPin, HIGH);
+    delay (500);
+    digitalWrite(yellowPin, LOW);
+    delay (500);
+   }
+   else if (switchState == HIGH){
+   digitalWrite(yellowPin, LOW);
+   }
+
+}
