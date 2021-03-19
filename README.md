@@ -84,9 +84,11 @@ Me llamo Naira, y este es un repositorio sobre un proyecto que estoy haciendo en
 
 * [El puto radar manin](https://github.com/chechiliaa/arduino/blob/main/radar)
 
-### Pruebas del examen...
+### Pruebas del examen... :sleepy:
 
 * [Problema 1](https://github.com/chechiliaa/arduino/blob/main/problema%201)
+
+* [Problema 2](https://github.com/chechiliaa/arduino/blob/main/ejemplo%202)
 
 ### Ojito con el resto...👀
 
