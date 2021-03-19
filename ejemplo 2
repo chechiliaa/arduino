@@ -1,0 +1,25 @@
+int yellowPin = 10;
+int yellowValue = 0;
+int const potPin = A0;
+int potVal;
+int switchState = 0;
+
+
+void setup() {
+  pinMode(yellowPin, OUTPUT);
+  Serial.begin(9600);
+  
+}
+
+void loop() {
+  potVal = analogRead(potPin);
+  Serial.print("potVale: ");
+  Serial.println(potVal);
+  Serial.print(yellowPin);
+  yellowValue = map(potVal ,0,1023,0,255);
+
+  analogWrite(yellowPin, yellowValue);
+
+  delay(15);
+
+}
