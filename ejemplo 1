@@ -1,0 +1,27 @@
+int buttonPin1 = 5;
+int buttonPin2 = 6;
+int ledPin = 4;
+
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(4, OUTPUT);
+  pinMode(5, INPUT);
+  pinMode(6, INPUT);
+  Serial.begin(9600);
+}
+
+void loop() {
+  int estadoBoton1 = digitalRead(buttonPin1);
+  int estadoBoton2 = digitalRead(buttonPin2);
+  Serial.println(estadoBoton2);
+  if (estadoBoton1== HIGH){
+    //indica que el botón uno es presionadoç
+    digitalWrite(4, HIGH);
+  }  
+   if (estadoBoton2 == HIGH){
+      digitalWrite(4, LOW);
+    }
+      //digitalWrite(4, LOW);
+    }
+  
+  
