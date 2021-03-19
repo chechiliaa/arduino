@@ -1,0 +1,37 @@
+*
+*  Documentación del programa:Problema 1
+*  Autora toda poderosa: Naira Millán Trujillo
+*  Fecha:19/03/21
+*  Descripción del programa: El problema que nos plantean es: 3 leds, que el tercero se encienda un segundo después 
+*  de conectarlo, tras haber pasado el segundo, los tres se encenderan 1 segundo y apagaran 0,5 segundos y así
+*  en un búcle.
+*  Hardware necesario: 3 leds, 5 cables y 3 resistencias de 220 Ohmios.
+*/
+
+const int redPin = 12;//led pin 3
+const int greenPin = 11; //led pin 2
+const int yellowPin = 7; //led pin 1
+
+
+void setup() {
+  pinMode(redPin, OUTPUT);
+  pinMode(yellowPin, OUTPUT);
+  pinMode(greenPin, OUTPUT);
+
+   digitalWrite(redPin, HIGH); 
+   delay(1000);
+ 
+}
+
+void loop() {
+   digitalWrite(redPin, HIGH);
+   digitalWrite(greenPin, HIGH);
+   digitalWrite(yellowPin, HIGH);
+   delay(1000);
+   digitalWrite(redPin, LOW);
+   digitalWrite(greenPin, LOW);
+   digitalWrite(yellowPin, LOW);
+   delay(500);
+   
+   
+}
